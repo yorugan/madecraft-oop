@@ -8,6 +8,7 @@
       <sourceFolder url="file://$MODULE_DIR$/3. Getters and Setters" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4. Static" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/6. UML" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/5. inheritance" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
